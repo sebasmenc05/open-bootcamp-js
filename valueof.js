@@ -6,3 +6,11 @@ console.log(numero1.valueOf())
 
  console.log(numero.valueOf())
 
+/* como obtener una lista a partir de objetos iterantes */
+
+const str = "hola soy seba"
+
+//metodo .from()
+const ar_str = Array.from(str)
+console.log(ar_str)
+
