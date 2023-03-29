@@ -1,0 +1,1 @@
+console.log("sale por consola")

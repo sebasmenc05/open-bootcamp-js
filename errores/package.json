@@ -1,0 +1,21 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "mi primer proyecto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node indeeex.js"
+    
+  },
+  "author": "sebamencia",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebasmenc05/open-bootcamp-js.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/sebasmenc05/open-bootcamp-js/issues"
+  },
+  "homepage": "https://github.com/sebasmenc05/open-bootcamp-js#readme"
+}
